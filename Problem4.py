@@ -1,9 +1,3 @@
-'''
-Input Harga: 370000
-Input Diskon: 15
-Output: harga yang harus dibayar adalah Rp. 314.500
-'''
-
 # Meminta input harga awal dan diskon
 harga_awal = float(input("Harga awal: "))
 diskon = float(input("diskon (dalam %): "))
